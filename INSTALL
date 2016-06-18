@@ -1,0 +1,9 @@
+Building ShrekCoin
+
+See doc/readme-qt.rst for instructions on building ShrekCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ShrekCoin.
+
+See doc/build-*.txt for instructions on building shrekcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ShrekCoin.
